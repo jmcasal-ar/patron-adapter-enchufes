@@ -1,0 +1,13 @@
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\bin\Debug\netcoreapp3.1\PatronAdapterEnchufes.exe
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\bin\Debug\netcoreapp3.1\PatronAdapterEnchufes.deps.json
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\bin\Debug\netcoreapp3.1\PatronAdapterEnchufes.runtimeconfig.json
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\bin\Debug\netcoreapp3.1\PatronAdapterEnchufes.runtimeconfig.dev.json
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\bin\Debug\netcoreapp3.1\PatronAdapterEnchufes.dll
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\bin\Debug\netcoreapp3.1\PatronAdapterEnchufes.pdb
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\obj\Debug\netcoreapp3.1\PatronAdapterEnchufes.csprojAssemblyReference.cache
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\obj\Debug\netcoreapp3.1\PatronAdapterEnchufes.AssemblyInfoInputs.cache
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\obj\Debug\netcoreapp3.1\PatronAdapterEnchufes.AssemblyInfo.cs
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\obj\Debug\netcoreapp3.1\PatronAdapterEnchufes.csproj.CoreCompileInputs.cache
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\obj\Debug\netcoreapp3.1\PatronAdapterEnchufes.dll
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\obj\Debug\netcoreapp3.1\PatronAdapterEnchufes.pdb
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\PatronAdapterEnchufes\obj\Debug\netcoreapp3.1\PatronAdapterEnchufes.genruntimeconfig.cache
